@@ -3,7 +3,11 @@ __pycache__
 
 Cat_Dog_data*
 .vscode/
-py3/ 
+py3/
+
+.udacity-pa/
+
+*.zip  
 *.pth
 *.pt
 *.net
