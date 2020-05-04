@@ -6,7 +6,11 @@ Cat_Dog_data*
 py3/
 
 .udacity-pa/
+data/
+dataset/
+datasets/
 
+*.pt
 *.zip  
 *.pth
 *.pt
