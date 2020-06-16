@@ -16,3 +16,12 @@ datasets/
 *.pt
 *.net
 *.tar.gz
+*.pkl
+
+
+._.DS_Store
+
+/__MACOSX/
+summer2winter_yosemite/
+processed_celeba_small/
+ gans/project-face-generation/__MACOSX/
